@@ -11,6 +11,9 @@ function flatten(arr) {
     });
 
     return result;
+
+
+
 }
 
 // Modern "Cheat" way: arr.flat(Infinity);
