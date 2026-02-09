@@ -21,4 +21,5 @@ rl.question("What is your name? ", function (name) {
     console.log("Reversed name: " + reversed);
 
     rl.close();
+
 });
