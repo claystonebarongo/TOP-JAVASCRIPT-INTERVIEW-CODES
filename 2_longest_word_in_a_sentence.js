@@ -2,16 +2,17 @@
 
 function longestWord(sentence) {
 
-    let words= sentence.split(" ")
+    let words = sentence.split(" ")
 
-    let longest= ""
+    let longest = ""
 
-    for(word of words){
+    for (word of words) {
 
-        if(word.length > longest.length )
 
-            longest =word
-        
+        if (word.length > longest.length)
+
+            longest = word
+
     }
 
     return longest

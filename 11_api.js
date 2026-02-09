@@ -21,6 +21,7 @@ async function displayDogBreeds() {
         });
 
     } catch (error) {
+
         console.error("Error loading breeds:", error.message);
     }
 }

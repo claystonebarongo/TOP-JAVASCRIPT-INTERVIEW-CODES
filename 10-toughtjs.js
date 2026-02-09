@@ -10,6 +10,7 @@ function flatten(arr) {
         }
     });
 
+
     return result;
 
 
