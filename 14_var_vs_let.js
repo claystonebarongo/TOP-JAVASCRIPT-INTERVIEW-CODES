@@ -13,7 +13,10 @@ for (var i = 0; i < 5; i++) {
 
 // All callbacks reference the same variable i
 
+
+
 for (let i = 0; i < 5; i++) {
+
     setTimeout(function () {
         console.log(i)
     }, 1000)
