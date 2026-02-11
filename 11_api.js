@@ -17,6 +17,7 @@ async function displayDogBreeds() {
         // Print the first 20 breeds so your terminal isn't flooded
         breeds.slice(0, 20).forEach((breed, index) => {
             const formattedName = breed.charAt(0).toUpperCase() + breed.slice(1);
+
             console.log(`${index + 1}. ${formattedName}`);
         });
 

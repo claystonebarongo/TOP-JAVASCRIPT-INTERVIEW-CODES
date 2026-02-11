@@ -2,13 +2,14 @@
 
 //below is a function to check if word is palindrome
 
-function isPalindrome(str){
+function isPalindrome(str) {
 
-   let reversedStr = str.split("").reverse().join("")
+    let reversedStr = str.split("").reverse().join("")
 
     return str === reversedStr
 }
 
 console.log(isPalindrome("madam"))  // output:true
 console.log(isPalindrome("world"))  // output:false
+
 console.log(isPalindrome("tennet")) // output:true
