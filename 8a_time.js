@@ -8,5 +8,7 @@ setInterval(() => {
 
 
 //THIS dISPLAYS ONLT DATE
+
+
 const date = new Date()
 console.log(date.toLocaleTimeString())
