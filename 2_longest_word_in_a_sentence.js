@@ -16,6 +16,7 @@ function longestWord(sentence) {
 
             longest = word
 
+
     }
 
     return longest
