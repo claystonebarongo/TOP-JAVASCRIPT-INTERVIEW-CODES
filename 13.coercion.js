@@ -39,6 +39,8 @@ console.log("5" + 3);
 
 // Number 3 becomes string "3"
 
+
+
 // Result → "53"
 
 
