@@ -18,6 +18,9 @@ console.log("5" + 3);
 
 //JavaScript converts "2" (string) → 2 (number)
 
+
+
+
 //Then performs subtraction: 2 - 2 = 0   
 
 
