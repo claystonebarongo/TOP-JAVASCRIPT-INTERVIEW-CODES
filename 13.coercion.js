@@ -7,6 +7,8 @@ console.log("5" + 3);
 
 //It converts the number to a string
 
+
+
 //Performs string concatenation
 
 
