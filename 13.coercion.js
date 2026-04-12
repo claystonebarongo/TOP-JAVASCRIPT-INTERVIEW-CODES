@@ -5,6 +5,8 @@ console.log("5" + 3);
 
 //OUTPUT LINE 1 IS 22 ----JavaScript sees a number + string
 
+
+
 //It converts the number to a string
 
 
