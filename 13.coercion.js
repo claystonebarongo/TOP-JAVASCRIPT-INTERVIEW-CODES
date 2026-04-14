@@ -14,10 +14,6 @@ console.log("5" + 3);
 //Performs string concatenation
 
 
-
-
-
-
 //OUTPUT LINE 2 IS 0       The - operator only works with numbers
 
 
