@@ -25,6 +25,10 @@ console.log("5" + 3);
 
 
 //OUTPUT LINE 3 IS 15
+
+
+
+
 // * forces numeric conversion
 
 // Both strings become numbers
