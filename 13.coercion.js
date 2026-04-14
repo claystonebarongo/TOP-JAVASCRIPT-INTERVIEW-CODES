@@ -16,10 +16,6 @@ console.log("5" + 3);
 
 //OUTPUT LINE 2 IS 0       The - operator only works with numbers
 
-
-
-
-
 //JavaScript converts "2" (string) → 2 (number)
 
 
