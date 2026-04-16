@@ -10,6 +10,8 @@ function findLargest(arr) {
 
       max = arr[i];
     }
+
+
   }
 
   return max;
