@@ -13,6 +13,8 @@ function removeDuplicates(arr) {
 
 
             unique.push(arr[i]);
+
+
         }
 
     }
