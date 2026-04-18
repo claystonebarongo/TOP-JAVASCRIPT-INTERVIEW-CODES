@@ -3,6 +3,8 @@ function removeDuplicates(arr) {
 
     let unique = [];
 
+
+
     for (let i = 0; i < arr.length; i++) {
 
 
