@@ -8,6 +8,8 @@ async function getHeroNames() {
         heroes.forEach(hero => {
 
 
+
+
             console.log(hero.name);
         });
     } catch (err) {
