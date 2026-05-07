@@ -15,6 +15,8 @@ rl.question("What is your name? ", function (name) {
 
     for (let i = name.length - 1; i >= 0; i--) {
 
+
+
         reversed += name[i];
     }
 
