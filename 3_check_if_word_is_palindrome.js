@@ -18,4 +18,6 @@ console.log(isPalindrome("madam"))  // output:true
 
 console.log(isPalindrome("world"))  // output:false
 
+
+
 console.log(isPalindrome("tennet")) // output:true
