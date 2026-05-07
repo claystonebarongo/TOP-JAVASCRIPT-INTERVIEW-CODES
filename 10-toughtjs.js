@@ -5,6 +5,8 @@ function flatten(arr) {
 
 
         if (Array.isArray(item)) {
+
+
             // If it's an array, recursive call and spread the results
             result.push(...flatten(item));
         } else {
