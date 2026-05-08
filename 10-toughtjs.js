@@ -9,6 +9,8 @@ function flatten(arr) {
 
             // If it's an array, recursive call and spread the results
             result.push(...flatten(item));
+
+
         } else {
             result.push(item);
         }
