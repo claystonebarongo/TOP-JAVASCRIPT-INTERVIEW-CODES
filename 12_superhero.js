@@ -1,5 +1,7 @@
 async function getHeroNames() {
     try {
+
+
         const response = await fetch('https://akabab.github.io/superhero-api/api/all.json');
 
 
