@@ -15,6 +15,8 @@ async function getHeroNames() {
 
 
             console.log(hero.name);
+
+
         });
     } catch (err) {
 
