@@ -20,6 +20,8 @@ async function displayDogBreeds() {
 
             const formattedName = breed.charAt(0).toUpperCase() + breed.slice(1);
 
+
+
             console.log(`${index + 1}. ${formattedName}`);
 
         });
