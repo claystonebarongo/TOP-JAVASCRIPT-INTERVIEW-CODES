@@ -2,6 +2,8 @@
 
 //below is a function to check if word is palindrome
 
+
+
 function isPalindrome(str) {
 
     let reversedStr = str.split("").reverse().join("")
