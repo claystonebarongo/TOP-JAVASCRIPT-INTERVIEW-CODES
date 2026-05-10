@@ -9,6 +9,8 @@ async function getHeroNames() {
 
 
 
+
+
         heroes.forEach(hero => {
 
 
