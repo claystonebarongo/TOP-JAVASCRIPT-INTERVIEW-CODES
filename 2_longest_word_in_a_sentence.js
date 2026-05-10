@@ -5,9 +5,6 @@ function longestWord(sentence) {
 
 
     let words = sentence.split(" ")
-
-
-
     let longest = ""
 
     for (word of words) {
@@ -19,9 +16,6 @@ function longestWord(sentence) {
     }
 
     return longest
-
-
-
 }
 
 console.log(longestWord("i am the king of zamunda"))
