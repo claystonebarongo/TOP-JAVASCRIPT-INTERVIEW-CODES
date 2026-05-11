@@ -24,6 +24,8 @@ async function displayDogBreeds() {
 
 
 
+
+
             console.log(`${index + 1}. ${formattedName}`);
 
         });
