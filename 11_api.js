@@ -5,7 +5,9 @@ async function displayDogBreeds() {
         console.log("Fetching breeds... Please wait.");
         const response = await fetch(URL);
 
-        if (!response.ok) throw new Error('Network response was not ok');
+        if (!response.ok)
+
+            throw new Error('Network response was not ok');
 
         const data = await response.json();
 
