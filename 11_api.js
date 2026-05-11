@@ -18,6 +18,8 @@ async function displayDogBreeds() {
         breeds.slice(0, 20).forEach((breed, index) => {
 
 
+
+
             const formattedName = breed.charAt(0).toUpperCase() + breed.slice(1);
 
 
