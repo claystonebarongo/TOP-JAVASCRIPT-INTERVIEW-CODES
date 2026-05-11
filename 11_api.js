@@ -15,6 +15,8 @@ async function displayDogBreeds() {
         console.log(`--- Found ${breeds.length} Dog Breeds ---`);
 
         // Print the first 20 breeds so your terminal isn't flooded
+
+
         breeds.slice(0, 20).forEach((breed, index) => {
 
 
