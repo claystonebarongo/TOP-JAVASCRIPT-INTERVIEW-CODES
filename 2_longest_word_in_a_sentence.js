@@ -1,6 +1,8 @@
 //FUNCTION TO RETURN THE LONGEST WORD IN A SENTENCE
 
 function longestWord(sentence) {
+
+
     let words = sentence.split(" ")
     let longest = ""
 
