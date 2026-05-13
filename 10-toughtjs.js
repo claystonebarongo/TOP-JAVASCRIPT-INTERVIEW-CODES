@@ -4,6 +4,8 @@ function flatten(arr) {
     arr.forEach((item) => {
 
 
+
+
         if (Array.isArray(item)) {
 
 
