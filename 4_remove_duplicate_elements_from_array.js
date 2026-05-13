@@ -8,6 +8,8 @@ function removeDuplicates(arr) {
 
         if (!unique.includes(arr[i])) {
 
+
+
             unique.push(arr[i]);
 
 
