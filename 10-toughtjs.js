@@ -8,7 +8,7 @@ function flatten(arr) {
 
         if (Array.isArray(item)) {
 
-            
+
 
 
             // If it's an array, recursive call and spread the results
@@ -18,6 +18,8 @@ function flatten(arr) {
 
 
         } else {
+
+
             result.push(item);
         }
     });
