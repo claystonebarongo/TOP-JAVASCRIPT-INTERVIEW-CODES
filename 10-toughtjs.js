@@ -21,6 +21,8 @@ function flatten(arr) {
 
 
             result.push(item);
+
+
         }
     });
 
