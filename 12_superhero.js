@@ -8,10 +8,6 @@ async function getHeroNames() {
         const heroes = await response.json();
 
         heroes.forEach(hero => {
-
-
-
-
             console.log(hero.name);
 
 
