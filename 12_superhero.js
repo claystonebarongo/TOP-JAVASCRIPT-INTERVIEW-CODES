@@ -19,7 +19,4 @@ async function getHeroNames() {
     }
 }
 
-
-
-
 getHeroNames();
